@@ -1,5 +1,5 @@
 # DateConvertor
-This simple code converts date into "Shamsi" or "Jalali" date and this is useful for Persian users.
+This simple code converts date into "Shamsi" or "Jalali" in Python 3.4 and this is useful for Persian users.
 
 Example:
 
